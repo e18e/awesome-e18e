@@ -12,8 +12,21 @@ If you'd like to contribute, please check the [contribution guidelines](CONTRIBU
 
 ## Contents
 
-TODO: add contents
+- [Contents](#contents)
+- [Resources](#resources)
+- [Utilities](#utilities)
+  - [Data Structures](#data-structures)
 
 ## Resources
 
-TODO: add resources
+TODO
+
+## Utilities
+
+### Data Structures
+
+- [dequal](https://github.com/lukeed/dequal) - Deep equal utility.
+- [dlv](https://github.com/developit/dlv) - Deep property access utility.
+- [dset](https://github.com/lukeed/dset) - Deep property set utility.
+- [klona](https://github.com/lukeed/klona) - Deep clone utility.
+- [pkg-types](https://github.com/unjs/pkg-types) - TypeScript types and utilities for package.json files.
