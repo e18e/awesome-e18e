@@ -30,3 +30,11 @@ TODO
 - [dset](https://github.com/lukeed/dset) - Deep property set utility.
 - [klona](https://github.com/lukeed/klona) - Deep clone utility.
 - [pkg-types](https://github.com/unjs/pkg-types) - TypeScript types and utilities for package.json files.
+
+### Command Line Interfaces (CLI)
+
+- [fast-string-width](https://github.com/fabiospampinato/fast-string-width) - Terminal string visual width utility.
+- [mri](https://github.com/lukeed/mri) - Command line arguments parser.
+- [nanospinner](https://github.com/usmanyunusov/nanospinner) - Terminal spinner.
+- [picocolors](https://github.com/alexeyraspopov/picocolors) - Terminal colors.
+- [sade](https://github.com/lukeed/sade) - CLI builder.
