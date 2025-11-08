@@ -87,6 +87,7 @@ TODO
 
 - [empathic](https://github.com/lukeed/empathic) - Utilities for file system traversal.
 - [fdir](https://github.com/thecodrr/fdir) - Directory crawler and globbing library.
+- [fflate](https://github.com/101arrowz/fflate) - Compression and decompression library.
 - [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) - File system globbing library.
 
 ### Git Hooks
